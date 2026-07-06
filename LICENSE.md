@@ -1,4 +1,4 @@
-# 
+# New GitKraken plugins for Mac OS | Automatic GitKraken plugins for PC Windows. Featuring environment-variables and execution-plan — optimized for maximum performance on every platform.
 
 
 
